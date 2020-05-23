@@ -1,4 +1,5 @@
 # Clear
-Clear Weather
 
-You want simple. We call it Clear.
+Checking the weather should be easy. 
+You want simple. 
+We call it Clear.
